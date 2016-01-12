@@ -1,0 +1,45 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+	background: #CEC7DD;
+}
+.big_heading {
+	background: #DBB562;
+	border: 2px solid #894A4A;
+	border-radius: 11px;
+}
+
+#container {
+	text-align: center;
+}
+
+.segment {
+	display: inline-block;
+	width: 29%;
+	border: 2px solid #8694C9;
+	border-radius: 30px;
+	vertical-align: middle;
+	padding: 12px;
+	margin: 12px;
+}
+
+#left {
+	background: #B1EFCE
+}
+#middle {
+	background: #FDCFA9
+}
+#right{
+	background: #D5F8B8
+}
+
+#footer {
+	background: #8DF3E8;
+	border: 22px solid #F1E5A2;	
+	border-radius: 44px;
+}
