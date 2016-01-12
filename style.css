@@ -4,9 +4,9 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
+/* Changing the body background from #CEC7DD  to #fed   */
 body {
-	background: #CEC7DD;
+	background: #fed;
 }
 .big_heading {
 	background: #DBB562;
