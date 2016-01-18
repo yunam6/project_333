@@ -24,7 +24,8 @@ body {
 	border: 2px solid #8694C9;
 	border-radius: 30px;
 	vertical-align: middle;
-	padding: 12px;
+	/* CHANGING THE PADDING TO 22 , FROM 12 */
+	padding: 22px;
 	margin: 12px;
 }
 
